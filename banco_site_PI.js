@@ -1,4 +1,4 @@
-use (banco)
+use (banco_site_PI)
 
 db.usuario.insert({
     "id_usuario": id_usuario_unico,
