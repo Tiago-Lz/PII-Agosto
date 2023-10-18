@@ -6,3 +6,9 @@ db.usuario.insert({
     "numero_telefone": numero_telefone,
     "login": login_usuario,
 })
+
+db.gerente.insert({
+    "id_gerente": id_gerente_unico,
+    "login": login_gerente,
+})
+
