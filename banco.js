@@ -12,3 +12,9 @@ db.gerente.insert({
     "login": login_gerente,
 })
 
+db.produto.insert({
+    "id_produto": id_produto_unico,
+    "nome": nome_produto,
+    "descriscao_produto": descriscao_produto,
+    "preco": preco_produto,
+})
