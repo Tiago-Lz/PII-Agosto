@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "557224665226",
+    "project_id": "doceria-ga",
+    "storage_bucket": "doceria-ga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557224665226:android:33a5f52af73e7589c54d73",
+        "android_client_info": {
+          "package_name": "com.mycompany.piidoceria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557224665226-959vrn9jogjlcffm1elr0po2nb5mjpv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.piidoceria",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "557224665226-5tk6v8heq1k2jpvp5mua07p6a4p6qg63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILiwkYblwOkapcpPTogUNrJyqJDErE9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557224665226-5tk6v8heq1k2jpvp5mua07p6a4p6qg63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557224665226-msjibe71cksbe8iett2napj1uo8ht9jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.piidoceria"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
